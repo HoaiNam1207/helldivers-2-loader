@@ -258,6 +258,6 @@ tool completely — there is no uninstaller and no registry entry.
 | **Price** | $0 |
 | **Version** | 2026 build |
 
-*helldivers-2-loader · Updated 2026-10-27 · Shared under the MIT License*
+*helldivers-2-loader · Updated 2026-10-28 · Shared under the MIT License*
 
-<!-- updated 2026-10-27 -->
+<!-- updated 2026-10-28 -->
